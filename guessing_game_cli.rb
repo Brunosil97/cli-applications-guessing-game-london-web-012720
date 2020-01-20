@@ -7,7 +7,8 @@ def run_guessing_game
    elsif input.downcase == "exit"
    puts  "goodbye!"
  else 
-   puts "Sorry! The computer guessed "
+   puts "Sorry! The computer guessed #{rando}"
+ end 
  
 end 
 
