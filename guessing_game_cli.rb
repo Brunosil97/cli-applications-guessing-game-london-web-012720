@@ -1,4 +1,5 @@
 def run_guessing_game
-  rand(1..6)
+ rando = rand(1..6)
+ 
 end 
 
